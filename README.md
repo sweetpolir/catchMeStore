@@ -1,2 +1,1 @@
 # catchMeStore
-online store
